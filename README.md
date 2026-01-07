@@ -1,2 +1,1 @@
-# product-landing-page
-a beginner html + css project: product landing page (from freecodecamp)
+Forked for learning HTML & CSS. I will customize and improve this project.
